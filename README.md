@@ -88,7 +88,7 @@ Setup: pip install -r requirements.txt
 
 Training: python main.py (generates models, plots, strategy comparison)
 
-Dashboard: streamlit run app.py (visit http://localhost:8501)
+Dashboard: streamlit run app.py
 
 ## Tech Stack
 
